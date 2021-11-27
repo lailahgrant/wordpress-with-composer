@@ -33,6 +33,7 @@ In the terminal (in the folder e.g. composer-example, run
  
 > composer install
 
+
 - it won't install because couldn't find composer.json
 
 ![comp1](https://user-images.githubusercontent.com/28113644/143672904-b0a6b24f-bb2e-4bad-b01a-a8bf8828b503.png)
@@ -48,4 +49,6 @@ In the terminal (in the folder e.g. composer-example, run
 
 ![comp2](https://user-images.githubusercontent.com/28113644/143672914-0e4b25a5-5337-4150-a263-42ec1b772ffd.png)
 
+
+> When you clone this repo, it won't have `vendor` folder, to get it, run  `composer install` . 
 
